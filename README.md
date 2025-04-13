@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👾 Hello World! I'm Mahisur Rahman 👾<br><br>🚀 MERN Stack Magician | 🧑‍💻 Code Whisperer | 🌟 Bug Exterminator<br><br>I'm a full-stack developer powered by MongoDB, Express.js, React.js, and Node.js. My superpower? Turning caffeine and curiosity into clean, scalable code!<br><br>When I'm not coding, you can find me:<br>🎸 Jamming to lo-fi beats<br>🎮 Crushing it in multiplayer games<br>📚 Absorbing tech blogs like a sponge<br><br>🌟 What I Love Building<br><br>Sleek, user-friendly UIs<br>Rock-solid APIs<br>Anything that makes the web awesome!<br>🌐 Let's Connect!<br>Got a cool idea? Let’s turn it into a reality! 🚀<br><br>
+👾 Hello World! I'm Mahisur Rahman 👾<br><br>🚀 MERN Stack Developer | 🧑‍💻 Code Whisperer | 🌟 Bug Exterminator<br><br>I'm a full-stack developer powered by MongoDB, Express.js, React.js, and Node.js. My superpower? Turning caffeine and curiosity into clean, scalable code!<br><br>When I'm not coding, you can find me:<br>🎸 Jamming to lo-fi beats<br>🎮 Crushing it in multiplayer games<br>📚 Absorbing tech blogs like a sponge<br><br>🌟 What I Love Building<br><br>Sleek, user-friendly UIs<br>Rock-solid APIs<br>Anything that makes the web awesome!<br>🌐 Let's Connect!<br>Got a cool idea? Let’s turn it into a reality! 🚀<br><br>
 
 ## 🌐 Socials:
 
